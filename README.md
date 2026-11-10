@@ -25,6 +25,7 @@ ShadowBrowser mitigates these vectors through the following architecture:
 ---
 
 
+
 ## Capabilities
 
 ### 1. Batch Job Application Engine
