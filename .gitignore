@@ -78,3 +78,10 @@ Thumbs.db
 desktop.ini
 .agents/
 
+# ==========================================
+# Private Data Files
+# ==========================================
+freelancing.txt
+data/freelance_platforms.json
+data/
+
