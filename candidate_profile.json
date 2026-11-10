@@ -1,0 +1,23 @@
+{
+  "first_name": "Rishabh",
+  "last_name": "Vaibhav",
+  "full_name": "Rishabh Vaibhav",
+  "email": "rishabh.vaibhav.dev@gmail.com",
+  "phone": "+91 9876543210",
+  "city": "Bengaluru",
+  "country": "India",
+  "current_company": "Cloud Systems & AI Labs",
+  "current_title": "Senior AI & Full Stack Engineer",
+  "years_of_experience": "5",
+  "notice_period_days": "30",
+  "current_ctc": "24,00,000 INR",
+  "expected_ctc": "35,00,000 INR",
+  "linkedin_url": "https://www.linkedin.com/in/rishabh-vaibhav",
+  "naukri_profile_url": "https://www.naukri.com/mnjuser/profile",
+  "github_url": "https://github.com/rishabh-vaibhav",
+  "portfolio_url": "https://rishabhvaibhav.dev",
+  "resume_path": "resume.pdf",
+  "work_authorization": "Yes",
+  "sponsorship_required": "No",
+  "summary": "Full Stack and Autonomous Systems Engineer with 5+ years of experience specializing in distributed backends, AI agents, and browser automation."
+}
