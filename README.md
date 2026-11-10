@@ -1,6 +1,6 @@
 # ShadowBrowser
 
-An autonomous, AI-controlled browser framework designed to replicate real Google Chrome behavior. ShadowBrowser maintains persistent user sessions across multiple services (such as LinkedIn, Naukri, Indeed, and Google), provides humanized interaction modeling to evade bot heuristics, automates batch job applications from CSV datasets, discovers and validates PDF documents web-wide, and natively integrates with the Alpme Gateway API and Graphify knowledge graphs for token efficiency.
+An autonomous, AI-controlled browser framework designed to replicate real Google Chrome behavior. ShadowBrowser maintains persistent user sessions across multiple services (such as LinkedIn, Naukri, Indeed, and Google), provides humanized interaction modeling to evade bot heuristics, automates batch job applications from CSV datasets, discovers and validates PDF documents web-wide, and natively integrates with the Alpme Gateway API and Graphify knowledge graphs for token efficiency..
 
 ---
 
@@ -23,6 +23,7 @@ ShadowBrowser mitigates these vectors through the following architecture:
 - Alpme Gateway Integration: Targets `https://alpme.com/v1` via standard Bearer authorization, with automated exponential backoff and jitter for resilient execution during high-load periods.
 
 ---
+
 
 ## Capabilities
 
