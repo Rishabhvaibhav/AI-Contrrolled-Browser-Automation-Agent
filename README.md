@@ -86,6 +86,7 @@ ShadowBrowser/
 
 ---
 
+
 ## Configuration
 
 Set configuration variables in `.env`:
@@ -206,6 +207,7 @@ Automated applications reference `candidate_profile.json`. Example structure:
 ```
 
 ---
+
 
 ## Technical Specifications
 
