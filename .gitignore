@@ -1,0 +1,81 @@
+# ==========================================
+# Environments & Secrets
+# ==========================================
+.env
+.env.*
+.env.backup
+.env.local
+!.env.example
+
+# ==========================================
+# Chrome Profiles & Browser Session Data
+# ==========================================
+profiles/
+profiles/**
+user_data/
+chrome_profile/
+*.local_chromium/
+*.crx
+GrShaderCache/
+ShaderCache/
+Crashpad/
+
+# ==========================================
+# Python Bytecode & Cache
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Runtime Outputs & Downloads
+# ==========================================
+downloads/*
+!downloads/.gitkeep
+screenshots/*
+!screenshots/.gitkeep
+applied_jobs_report.csv
+*.log
+
+# ==========================================
+# IDE & Tool Metadata
+# ==========================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+graphify-out/
+.agents/
+
